@@ -1,1 +1,1 @@
-"# Conical-Slicing-Plugin" 
+# Conical-Slicing-Plugin
