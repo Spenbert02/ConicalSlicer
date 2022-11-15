@@ -1,4 +1,4 @@
-from . import ConicalSlicingExtension
+from . import ConicalSlicerExtension
 
 
 def getMetaData():
@@ -6,4 +6,4 @@ def getMetaData():
 
 
 def register(app):
-    return {"extension": ConicalSlicingExtension.ConicalSlicingExtension()}
+    return {"extension": ConicalSlicerExtension.ConicalSlicerExtension()}
